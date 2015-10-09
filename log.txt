@@ -1,39 +1,15 @@
-S 2015 10 10 00 55 14
-E 2015 10 10 00 55 43
-S 2015 10 10 00 56 07
-E 2015 10 10 00 56 10
-C 2015 10 10 01 04 21 testi g now Hey!!
-C 2015 10 10 01 05 44 testi g now
-C 2015 10 10 01 07 13 testing now
-C 2015 10 10 01 07 31 test a now nn hwy ujoisudhfgoiushdfg
-C 2015 10 10 01 08 21 testing now! hwy!
-C 2015 10 10 01 08 55 testing now! aaaaaaaaaaaa
-C 2015 10 10 01 11 26 testing now! hiuhi
-C 2015 10 10 01 12 00 tesgin agsdfg
-C 2015 10 10 01 13 12 "Teosdhg iuhsoifgh sdfgoiushdogfiuhs sdfhgsuidhfg"
-C 2015 10 10 01 14 03 "hogehoge"
-C 2015 10 10 01 16 46 "hogehoge"
-C 2015 10 10 01 16 51 "osidfjgouisdfg sdfgiusdhfgo"
-C 2015 10 10 01 17 22 "osidjgs sdfgsdfg"
-C 2015 10 10 01 20 10 "osdifgjposd asgdasgf isjodgjsodfg asgdsdfg"
-C 2015 10 10 01 20 22 "sdfgsdfg sdfhgsdfgs sdfgs"
-S 2015 10 10 01 21 56
-E 2015 10 10 01 22 10
-S 2015 10 10月 10 01 27 54
-S 2015 10 Oct 10 01 29 27
-S 2015 10 Oct 10 01 30 02
-S 2015 10 10 Sat H 31 41
 S 2015 10 10 Sat 01 32 01
-E 2015 10 10 土 01 32 35
+E 2015 10 10 Sat 01 35 35
 S 2015 10 10 Sat 01 32 43
 E 2015 10 10 Sat 01 33 10
-C 2015 10 10 Sat 01 34 00 "asiughoaiusfg sdfhishoisgf sdfh"
+C 2015 10 10 Sat 01 34 00 "asiughoaiusfg oijoigs gsdfgf gsdfg"
 S 2015 10 10 Sat 01 35 04
 E 2015 10 10 Sat 01 35 11
 S 2015 10 10 Sat 01 35 26
-C 2015 10 Oct 10 Sat 01 35 26 hogehoge
+C 2015 10 10 Sat 01 35 26 hogehoge
 E 2015 10 10 Sat 01 36 09
 S 2015 10 10 Sat 01 36 23
-C 2015 10 10 Sat 01 36 23 hoge
+C 2015 10 10 Sat 01 36 23 
 C 2015 10 10 Sat 01 36 34 hoge
 E 2015 10 10 Sat 01 36 34
+C 2015 10 10 Sat 02 28 45 "asdf asdfasdfasdfasdf asdfasdf ahhhhhhhhhhhhhhhhhhhhhh"
