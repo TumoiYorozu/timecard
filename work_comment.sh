@@ -26,7 +26,7 @@ fi
 
 cp log.txt $CP_PATH
 git add log.txt
-git commit -m TT > /dev/null
+git commit -m $TT > /dev/null
 
 echo "コメントしました($C)"
 

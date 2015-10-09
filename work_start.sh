@@ -23,7 +23,7 @@ then
 fi
 cp log.txt $CP_PATH
 git add log.txt
-git commit -m TT > /dev/null
+git commit -m $TT > /dev/null
 
 NT=`date "+%m月%d日 %H:%M:%S(%s)"`
 

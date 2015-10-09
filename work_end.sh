@@ -23,7 +23,7 @@ echo $T >> log.txt
 
 cp log.txt $CP_PATH
 git add log.txt
-git commit -m TT > /dev/null
+git commit -m $TT > /dev/null
 
 ST=`cat working`
 ET=`date +%s`
